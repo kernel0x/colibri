@@ -22,7 +22,7 @@ Add the dependency:
 
 ````java
 dependencies {
-	androidTestImplementation 'com.github.kernel0x.colibri:1.0.0'
+	androidTestImplementation 'com.github.kernel0x:colibri:1.0.0'
 }
 ````
 
